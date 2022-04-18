@@ -28,3 +28,5 @@ PlaybackSpeed, Volume, Audio Looping and a simple memory manager for audio. Does
 ok bye heve fun.
 
 what's that? jade loader v3 you ask? i have doubts i would continue developing for that as roblox is dying and is stupid af. why develop a fragile piece of art on something that is even more fragile and smol brain. honestly, if roblox keeps this up, i might as well turn away development from it entirelly. sorry, if you got hopes. i do too but it is but roblox is making me lose it.
+
+oh, if you haven't realized. i got "inspired" by roblox's api style and stolen it for use in this project. ya you heard that.
